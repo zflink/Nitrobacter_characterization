@@ -1,0 +1,94 @@
+LOCUS       JAVDPZ010000088         1754 bp    DNA     linear   BCT 13-SEP-2023
+DEFINITION  Extracted operon from JAVDPZ010000088.1, including 15000bp flanking
+            regions.
+ACCESSION   JAVDPZ010000088
+VERSION     JAVDPZ010000088.1
+KEYWORDS    WGS.
+SOURCE      Nitrobacter vulgaris
+  ORGANISM  Nitrobacter vulgaris
+            Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales;
+            Nitrobacteraceae; Nitrobacter.
+REFERENCE   1  (bases 1 to 1754)
+  AUTHORS   Goeker,M.
+  TITLE     Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing
+            the most valuable type-strain genomes for metagenomic binning,
+            comparative biology and taxonomic classification
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1754)
+  AUTHORS   Goeker,M., Huntemann,M., Clum,A., Wang,J., Palaniappan,K.,
+            Ritter,S., Chen,I.-M., Stamatis,D., Reddy,T., O'Malley,R., Daum,C.,
+            Shapiro,N., Ivanova,N., Kyrpides,N. and Woyke,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2023) Prokaryote Super Program, DOE Joint Genome
+            Institute, 1 Cyclotron Road, Mail Stop: 91R0183, Berkeley, CA 94720,
+            USA
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method        :: SPAdes v. 3.13.0
+            Genome Representation  :: Full
+            Expected Final Version :: No
+            Genome Coverage        :: 349.0x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            pi_orcid: https://orcid.org/0000-0002-5144-6200.
+FEATURES             Location/Qualifiers
+     source          1..1754
+                     /organism="Nitrobacter vulgaris"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Ga0373211_88"
+                     /strain="DSM 10236"
+                     /culture_collection="DSM:10236"
+                     /type_material="type strain of Nitrobacter vulgaris"
+                     /db_xref="taxon:29421"
+     gene            complement(1..1754)
+                     /locus_tag="GGQ85_004531"
+     CDS             complement(1..1754)
+                     /locus_tag="GGQ85_004531"
+                     /note="product_source=COG5013; cath_funfam=3.40.50.740;
+                     cog=COG5013; pfam=PF00384; superfamily=53706"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nitrate reductase alpha subunit"
+                     /protein_id="MDR6306795.1"
+                     /translation="QVGDRWGSTHGKWNLSAEDTLDNSPIDPVLSFIDQSDGVVQVGFD
+                     DFVNGSVVSRGVPVKRIATDKGEVLVATGFDIMMSQFGHSRGLEGSFATSYDDEDAPYT
+                     PAWQERHTGIGRETAIRFAREFATNAELTNGKSMVIVGASANHWYYNNLCYRSATVALI
+                     LCGCCGVNGGGINHYVGQEKLAPVASWSTVAMALDWSKPPRVVQSSTWHYAHSCQWRYE
+                     QEFTEYGLTAPNPRWAKGHAIDLEAKSVRCGWMPFTPNFHRNPIEVVADAERAGAKTTE
+                     DIAAYVVDQVASKKLNLAINDPDAEENWPRVWFIWRGNAIQSSAKGHEFFLRHYLGAHD
+                     NVVSEERAKGKTTTVKYRETAPRGKYDLVIDINFRMNTTGLYSDIILPTAFWYEKNDLN
+                     TTDLHSFLHVLGQAVPPVWESKTDWEIFKLLAKKVSELAPLAFSKPVRDVVLQPLMHDT
+                     PDELAQPEILDWAEGECKLVPGKSFPHVRVVERDYANLYNKFISFGPRAREEGISAVGV
+                     NIPIKKQYDQMLENPLMPMPDPRHMRCVEWGGKRYPSLEDVLDASNTVLLCAPVSNGEV
+                     SYQGFVNE"
+ORIGIN
+        1 tcctcgttga cgaagccctg gtagctgacc tcaccgttcg ataccggcgc gcacagcaac
+       61 accgtgttgg atgcgtcaag cacatcttcc agacttggat agcgcttgcc accccactcc
+      121 acgcaccgca tatgcctggg atccggcatc ggcatgaggg ggttttccag catctggtcg
+      181 tactgcttct tgatcggaat gttcacgccg accgctgaaa taccttcctc acgcgccctt
+      241 ggtccgaacg agatgaactt gttgtatagg ttcgcgtagt cgcgttcgac gactcgtacg
+      301 tgcgggaagg acttgcccgg caccagtttg cactcaccct cggcccagtc gagaatctcc
+      361 ggctgcgcca actcatcagg agtatcatgc atgagcggtt gaaggaccac gtcacgcacc
+      421 ggcttggaga acgccaacgg cgccaattca ctgaccttct tggcgagcag tttaaaaatc
+      481 tcccagtccg ttttcgattc ccataccggc ggaaccgcct gtcccagcac gtgcaagaac
+      541 gaatgcaggt ccgtcgtgtt gaggtcgttc ttctcgtacc agaacgctgt cggcaatata
+      601 atgtcggagt ataacccagt cgtgttcatg cggaagttga tgtcgatcac cagatcatac
+      661 ttcccgcgcg gagctgtctc gcgatactta accgttgtcg ttttgccttt cgctcgttcc
+      721 tcagagacca cgttgtcatg cgcaccaagg tagtgacgca agaagaactc gtgacccttg
+      781 gcgctcgact gaatcgcgtt accgcgccag atgaaccaca cgcgcggcca gttctcttcc
+      841 gcatcggggt cattgatcgc gagattcaac ttcttgctcg caacctgatc tacaacgtaa
+      901 gccgcaatat cttcggtcgt tttcgcgccg gctcgttcgg catcagccac aacctcaatc
+      961 gggttgcggt ggaaattggg agtaaacggc atccagccgc aacggaccga ctttgcctca
+     1021 agatcgatcg cgtgaccctt ggcccatcgt ggattcggcg ccgtcaagcc atactccgta
+     1081 aactcctgtt cgtaacgcca ctgacagctg tgggcatagt gccaagtcga cgactgcaca
+     1141 acccgcggcg gcttgctcca gtcgagcgcc atcgcaaccg tggaccacga cgcgaccgga
+     1201 gcaagctttt cctgaccgac gtagtggttg atgccaccgc cgttgacgcc gcagcaaccg
+     1261 cacaggatca aagcgaccgt cgccgatcgg taacaaaggt tattgtagta ccagtggttg
+     1321 gcgctggcgc ccacgatcac catggacttg ccgttggtga gctcggcgtt ggtcgcgaac
+     1381 tcacgtgcaa acctgatcgc tgtctcgcgg ccgatgccgg tgtgacgctc ctgccaagct
+     1441 ggagtatacg gcgcatcctc gtcatcgtag ctggtcgcaa acgagccttc cagcccgcgg
+     1501 ctgtgaccga actgagacat catgatgtca aagccggtcg cgacaagcac ctcgccctta
+     1561 tccgtagcga tacgcttcac cggaacaccg cgcgatacaa cgctgccatt cacgaagtca
+     1621 tcgaacccga cctgcaccac gccgtcggac tgatcgatga agctcagcac cggatcgatc
+     1681 gggctgttgt ccagcgtgtc ttccgcggac agattccact tgccgtgcgt ggagccccag
+     1741 cgatcgccga cctg
+//

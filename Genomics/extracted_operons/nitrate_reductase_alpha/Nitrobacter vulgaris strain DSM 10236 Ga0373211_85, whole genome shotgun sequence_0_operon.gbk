@@ -1,0 +1,104 @@
+LOCUS       JAVDPZ010000085         1882 bp    DNA     linear   BCT 13-SEP-2023
+DEFINITION  Extracted operon from JAVDPZ010000085.1, including 15000bp flanking
+            regions.
+ACCESSION   JAVDPZ010000085
+VERSION     JAVDPZ010000085.1
+KEYWORDS    WGS.
+SOURCE      Nitrobacter vulgaris
+  ORGANISM  Nitrobacter vulgaris
+            Bacteria; Pseudomonadota; Alphaproteobacteria; Hyphomicrobiales;
+            Nitrobacteraceae; Nitrobacter.
+REFERENCE   1  (bases 1 to 1882)
+  AUTHORS   Goeker,M.
+  TITLE     Genomic Encyclopedia of Type Strains, Phase IV (KMG-IV): sequencing
+            the most valuable type-strain genomes for metagenomic binning,
+            comparative biology and taxonomic classification
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1882)
+  AUTHORS   Goeker,M., Huntemann,M., Clum,A., Wang,J., Palaniappan,K.,
+            Ritter,S., Chen,I.-M., Stamatis,D., Reddy,T., O'Malley,R., Daum,C.,
+            Shapiro,N., Ivanova,N., Kyrpides,N. and Woyke,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-JUL-2023) Prokaryote Super Program, DOE Joint Genome
+            Institute, 1 Cyclotron Road, Mail Stop: 91R0183, Berkeley, CA 94720,
+            USA
+COMMENT     ##Genome-Assembly-Data-START##
+            Assembly Method        :: SPAdes v. 3.13.0
+            Genome Representation  :: Full
+            Expected Final Version :: No
+            Genome Coverage        :: 349.0x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            pi_orcid: https://orcid.org/0000-0002-5144-6200.
+FEATURES             Location/Qualifiers
+     source          1..1882
+                     /organism="Nitrobacter vulgaris"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Ga0373211_85"
+                     /strain="DSM 10236"
+                     /culture_collection="DSM:10236"
+                     /type_material="type strain of Nitrobacter vulgaris"
+                     /db_xref="taxon:29421"
+     gene            complement(1..458)
+                     /locus_tag="GGQ85_004519"
+     CDS             complement(1..458)
+                     /locus_tag="GGQ85_004519"
+                     /note="product_source=COG3002; cog=COG3002; pfam=PF10070"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="uncharacterized protein YbcC (UPF0753/DUF2309
+                     family)"
+                     /protein_id="MDR6306783.1"
+                     /translation="MVDALNLGRRLRVRSTAYVAGEQLPFFWPIRNFISRNPLRGLESM
+                     PFEQAVRRGAELFHARMFLPRSNYQQWQREGKVRQDTLTEEIGRRSQDLPSVPGIDWSR
+                     WLQALMQLPHDREVVVRGVRAKDVHAAMHGRPSSAEAVDVAALLPDLE"
+     gene            complement(1013..1870)
+                     /locus_tag="GGQ85_004520"
+     CDS             complement(1013..1870)
+                     /locus_tag="GGQ85_004520"
+                     /note="product_source=COG5013; cath_funfam=2.40.40.20;
+                     cog=COG5013; pfam=PF01568; superfamily=50692"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="nitrate reductase alpha subunit"
+                     /protein_id="MDR6306784.1"
+                     /translation="MLDASNTVLLCAPVSNGEVSYQGFVNEEQHVGLPLADLAEPTRSV
+                     SSTFFDLTRQPRRILTSPCWTGLVNDGRAYSAWCMNVERLVPWRTLTGRQSLYLDHQWY
+                     LDFGEHIPTYKPRLNPRKTGDIVKSRVDDRSLVLNYITPHGKWNIHSTYKDNHRMLMLS
+                     RGMDPVWINDRDAEKVGIEDNDWVEVYNDNGVVVTRANVSRRIQPGTCMYYHAVERTVY
+                     IPKSQERKWRGGGHNSLTRIRINPLFLAGGYAQFTYGWNYWGPTGIFTRDTHVVVRKME
+                     KLEW"
+ORIGIN
+        1 tgctcaagat ccggcaacag cgccgcaacg tcgacagcct ccgcggaaga cggacggccg
+       61 tgcatcgcgg cgtggacgtc cttcgcccgc acgccccgta ccaccacttc gcggtcatgc
+      121 ggcaactgca tcagcgcctg cagccagcga gaccagtcga tgcctggcac cgagggcaga
+      181 tcctgcgacc gtcgcccgat ttcctcggtg agggtgtcct gccgaacttt gccctcgcgc
+      241 tgccactgct ggtagttgct gcgcggcagg aacatgcgcg catgaaacag ctccgcacca
+      301 cggcgcaccg cctgctcgaa tggcatgctc tcgagccccc gcagcggatt gcggctgata
+      361 aaattacgaa tcggccagaa aaacggcagc tgctcacccg ccacataggc ggtcgagcgc
+      421 acccgcagac gccggccgag gttcaatgca tccaccatga ccaccctccg atcgaagcca
+      481 gcactgcagc agcggcgcta gcaaacgcta gcgcccgcaa acaccatcgg acgaaaagac
+      541 tcattggtcg acagacacgc ctcgccaaat ccgggcgatt gacttgacat taaagcggct
+      601 aaaaaggtta gcgtggctgg ccgaagcaac tagccgtccc atctaaatga agtgacacat
+      661 ctaacacgcg tgctgacagg aaccgaccga gcaagtcttc gccaagctta cgaccatgct
+      721 gtacaagggc ggcgagctcc atcgtatagg acggcactct cctgaacgtc tttagttgat
+      781 cgactgcgca actacatcgc gagggtcgaa tacgcttcag tatgacgcaa cgacagccag
+      841 gtcccctctc tcgttgaggc catcaaccgc ctttccaaag ccgaggggga tcatcgatgc
+      901 tgctaagcca taggagaatc ggccctggca gcgtgactca caccaaacgg ctttagcaat
+      961 tcccgggtag ttcaaatggg ctgcaagctc atagtctgcg tcgcgatatc acctaccatt
+     1021 ccagcttctc catcttacgc acgacgacat gcgtgtcgcg cgtgaagatg ccggtcggtc
+     1081 cccagtaatt ccatccatag gtgaactggg catagccacc ggccaggaac aacgggttga
+     1141 tacgaatacg cgtcagactg ttgtgtccgc caccgcgcca cttccgctcc tgggacttcg
+     1201 gaatgtacac cgtgcgttca accgcgtggt aatacataca ggtgccaggc tggattcgac
+     1261 gactgacatt ggcgcgtgtc acgaccacac cgttgtcgtt gtagacctcg acccagtcgt
+     1321 tatcctcgat accgaccttc tctgcatccc tatcattgat ccacaccggg tccatgccgc
+     1381 gagacagcat caacatgcgg tgattgtctt tgtaggtgga gtgaatgttc cacttgccgt
+     1441 gcggcgtgat gtagttcagc accagcgagc gatcatcaac ccggctcttc acaatatcgc
+     1501 cggtcttccg cggattgagc cgcggcttgt aggtcggtat atgctcacca aagtcgaggt
+     1561 accactgatg gtcgagatac agagattgcc gaccagttag cgtacgccaa ggcaccaagc
+     1621 gctcgacatt catacaccag gcggaatacg cacgaccgtc gttgaccagg cccgtccagc
+     1681 agggactcgt caggatacgc cgcggctgcc gcgtcagatc gaagaacgtc gacgagacac
+     1741 tccgcgtagg ctccgccaag tctgcaagcg gcagtccgac atgttgttcc tcgttgacga
+     1801 agccctggta gctgacctca ccgttcgata ccggcgcgca cagcaacacc gtgttggatg
+     1861 cgtcaagcac atcttccaga ct
+//
