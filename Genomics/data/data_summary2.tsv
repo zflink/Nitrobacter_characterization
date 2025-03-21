@@ -1,0 +1,9 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Nitrobacter hamburgensis X14		strain: X14	323097	ASM1388v1	GCA_000013885.1	GenBank	Annotation submitted by DOE Joint Genome Institute	Complete Genome	4406967	5011522	2006-04-11	4734	PRJNA13473	SAMN02598307
+Bradyrhizobium diazoefficiens USDA 110		strain: USDA 110	224911	ASM164267v1	GCA_001642675.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	9106064	9106064	2016-05-12	8489	PRJNA282645	SAMN03573437
+Nitrobacter vulgaris		strain: Ab1	29421	ASM202854v1	GCA_002028545.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Scaffold	130999	3900573	2017-03-15	3739	PRJNA377158	SAMN06458300
+Bradyrhizobium ottawaense		strain: OO99	931866	ASM227813v3	GCA_002278135.3	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	8589152	8589152	2024-02-23	8017	PRJNA397101	SAMN07448707
+Nitrobacter hamburgensis X14		strain: X14	323097	ASM1388v1	GCF_000013885.1	RefSeq	GCF_000013885.1-RS_2024_05_26	Complete Genome	4406967	5011522	2006-04-11	4902	PRJNA13473	SAMN02598307
+Bradyrhizobium diazoefficiens USDA 110		strain: USDA 110	224911	ASM164267v1	GCF_001642675.1	RefSeq	GCF_001642675.1-RS_2025_02_09	Complete Genome	9106064	9106064	2016-05-12	8576	PRJNA282645	SAMN03573437
+Nitrobacter vulgaris		strain: Ab1	29421	ASM202854v1	GCF_002028545.1	RefSeq	GCF_002028545.1-RS_2024_03_27	Scaffold	130999	3900573	2017-03-15	3730	PRJNA377158	SAMN06458300
+Bradyrhizobium ottawaense		strain: OO99	931866	ASM227813v3	GCF_002278135.3	RefSeq	GCF_002278135.3-RS_2025_02_09	Complete Genome	8589152	8589152	2024-02-23	8028	PRJNA397101	SAMN07448707
