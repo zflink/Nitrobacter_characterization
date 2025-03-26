@@ -1,0 +1,1 @@
+Microrespirometry data files are in the `data/` folder. These excel files contain excel-based calculations of consumption rates and optimization of Michaelis-Menton fits. The python notebook processes the derived rates and fits into publication-quality figures.
