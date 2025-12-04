@@ -1,0 +1,1 @@
+To view the interactive versions of the operon structure figures, download the .html files and open in a web browser. Gene annotation information can be accessed by right-clicking on any of the genes in the interactive figure.
